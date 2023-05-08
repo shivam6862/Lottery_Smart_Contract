@@ -4,12 +4,12 @@
   <p align="center">
    BlockChain Lottery
     <br />
-    <a href="https://github.com/shivam6862/SmartContract_Lottery"><strong>Explore the Project »</strong></a>
+    <a href="https://github.com/shivam6862/Lottery_Smart_Contract"><strong>Explore the Project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shivam6862/SmartContract_Lottery/issues">Report Bug</a>
+    <a href="https://github.com/shivam6862/Lottery_Smart_Contract/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shivam6862/SmartContract_Lottery/issues">Request Feature</a>
+    <a href="https://github.com/shivam6862/Lottery_Smart_Contract/issues">Request Feature</a>
   </p>
 </div>
 
@@ -58,7 +58,7 @@ So as to run our project locally, you need to follow the steps below.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/shivam6862/SmartContract_Lottery.git
+   git clone https://github.com/shivam6862/Lottery_Smart_Contract.git
    ```
 2. Install NPM packages on both backend and frontend folders
    ```sh
