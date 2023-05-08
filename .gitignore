@@ -1,0 +1,11 @@
+SmartContract_Lottery_Backend/node_modules
+SmartContract_Lottery_Backend/.env
+SmartContract_Lottery_Backend/artifacts
+SmartContract_Lottery_Backend/cache
+SmartContract_Lottery_Backend/deployments
+SmartContract_Lottery_Backend/coverage
+SmartContract_Lottery_Backend/gas-report.txt
+SmartContract_Lottery_Backend/coverage.json
+
+SmartContract_Lottery_Frontend/node_modules
+SmartContract_Lottery_Frontend/.env
