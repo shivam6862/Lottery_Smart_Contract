@@ -1,0 +1,33 @@
+.box {
+  margin: 0.5rem;
+  padding: 1rem;
+  border-bottom: 2px solid white;
+  display: flex;
+  flex-direction: row;
+  padding-top: 3rem;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.button {
+  margin-left: auto;
+}
+
+.connect {
+  font-size: 1.8rem;
+  color: #ff3e3e;
+  padding-left: 1rem;
+}
+
+@media (max-width: 750px) {
+  .box {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 1rem;
+  }
+}

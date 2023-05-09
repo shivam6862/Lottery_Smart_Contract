@@ -97,6 +97,8 @@ Some of the features of the Smart Contract Lottery system include:
 
 - Easy to Use: Participants can purchase lottery tickets using cryptocurrency, which is a simple and secure process.
 
+<a href="https://github.com/shivam6862/"><img src="https://github.com/shivam6862/Lottery_Smart_Contract/blob/master/SmartContract_Lottery_Frontend/public/project.png" style="border-radius:12px"></a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->

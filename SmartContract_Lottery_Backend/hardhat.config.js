@@ -133,3 +133,8 @@ module.exports = {
 //
 //
 // 16 : 20 :00
+
+// link through frontend from deploy folder
+// npx hardhat node
+
+// npx hardhat run scripts/mockOffchain.js --network localhost

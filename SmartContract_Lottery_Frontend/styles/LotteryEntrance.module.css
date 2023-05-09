@@ -1,0 +1,42 @@
+.box {
+  padding: 1rem;
+}
+
+.lottery {
+  padding: 0rem 0rem 0.75rem 0rem;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.button {
+  background-color: rgb(43 130 255 / 0.6);
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 1.1rem;
+  border-radius: 0.25rem;
+  margin-left: auto;
+}
+
+.button:hover {
+  background-color: rgb(0 105 256 / 0.9);
+}
+
+.data {
+  padding: 1rem 0rem 0.25rem 0.4rem;
+  font-size: 1.15rem;
+  color: #00ddff;
+  border-bottom: 1.4px solid white;
+}
+
+@media (max-width: 475px) {
+  .data {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 475px) {
+  .data {
+    font-size: 0.9rem;
+    overflow-wrap: break-word;
+  }
+}
